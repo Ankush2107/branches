@@ -6,3 +6,5 @@ function add(a, b) {
 if(true) {
    console.log("true")
 }
+
+console.log("end")
