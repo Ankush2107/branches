@@ -8,3 +8,4 @@ if(true) {
 }
 
 console.log("end")
+console.log("end")
