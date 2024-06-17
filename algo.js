@@ -1,1 +1,2 @@
-console..log("summer")
+console.log("summer")
+console.log("winter");
